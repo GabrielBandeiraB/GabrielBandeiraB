@@ -1,4 +1,4 @@
-### Hi there i'm Gabriel Bandeira<br>✨
+### Hi there i'm Gabriel Bandeira✨
 I'm bachelor's degree in computer science from the [Pontifical Catholic University of Goiânia](https://www.pucgoias.edu.br). <br>
 I have 4 years of experience in several areas of information technology, possessing solid knowledge in front end software development, UI/UX, systems administration and support.<br>
 
